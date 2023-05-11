@@ -1,0 +1,36 @@
+js api
+
+AJAX 
+
+----
+1-xmlHttps
+2.
+
+
+async and await
+async  and await -can be stored directly in a variable
+
+
+HOOK
+1.useState-
+2.useEffect--hook used to call a function at starting of component   ...to avoid loopeffect use squarebrackect []
+3.useparams
+
+
+
+
+React redirection Routing
+
+react-router-dom --- library used for redirection
+
+npm i  react-router-dom
+componnets used for routing 
+ 1.BrowserRouter--(root component selector)
+ 2.Route---for path setting
+ 3.Routes--->one or more paths 
+
+ Route(-path-element)
+
+ Params
+
+ -useparms-hook used to acces params
